@@ -1,0 +1,310 @@
+service_name,category,suit,rank,icon_path,filename
+Amazon WorkSpaces Family,End-User-Computing,Green,3,Architecture-Icons/Arch_End-User-Computing/48/Arch_Amazon-WorkSpaces-Family_48.png,Arch_Amazon-WorkSpaces-Family_48.png
+Amazon AppStream 2,End-User-Computing,Green,2,Architecture-Icons/Arch_End-User-Computing/48/Arch_Amazon-AppStream-2_48.png,Arch_Amazon-AppStream-2_48.png
+AWS SimSpace Weaver,Compute,Orange,2,Architecture-Icons/Arch_Compute/48/Arch_AWS-SimSpace-Weaver_48.png,Arch_AWS-SimSpace-Weaver_48.png
+AWS Nitro Enclaves,Compute,Orange,8,Architecture-Icons/Arch_Compute/48/Arch_AWS-Nitro-Enclaves_48.png,Arch_AWS-Nitro-Enclaves_48.png
+AWS Parallel Cluster,Compute,Orange,Q,Architecture-Icons/Arch_Compute/48/Arch_AWS-Parallel-Cluster_48.png,Arch_AWS-Parallel-Cluster_48.png
+AWS Compute Optimizer,Compute,Orange,3,Architecture-Icons/Arch_Compute/48/Arch_AWS-Compute-Optimizer_48.png,Arch_AWS-Compute-Optimizer_48.png
+Bottlerocket,Compute,Orange,3,Architecture-Icons/Arch_Compute/48/Arch_Bottlerocket_48.png,Arch_Bottlerocket_48.png
+AWS Parallel Computing Service,Compute,Orange,K,Architecture-Icons/Arch_Compute/48/Arch_AWS-Parallel-Computing-Service_48.png,Arch_AWS-Parallel-Computing-Service_48.png
+AWS Elastic Beanstalk,Compute,Orange,5,Architecture-Icons/Arch_Compute/48/Arch_AWS-Elastic-Beanstalk_48.png,Arch_AWS-Elastic-Beanstalk_48.png
+AWS Serverless Application Repository,Compute,Orange,A,Architecture-Icons/Arch_Compute/48/Arch_AWS-Serverless-Application-Repository_48.png,Arch_AWS-Serverless-Application-Repository_48.png
+Elastic Fabric Adapter,Compute,Orange,4,Architecture-Icons/Arch_Compute/48/Arch_Elastic-Fabric-Adapter_48.png,Arch_Elastic-Fabric-Adapter_48.png
+AWS Wavelength,Compute,Orange,9,Architecture-Icons/Arch_Compute/48/Arch_AWS-Wavelength_48.png,Arch_AWS-Wavelength_48.png
+AWS Outposts servers,Compute,Orange,J,Architecture-Icons/Arch_Compute/48/Arch_AWS-Outposts-servers_48.png,Arch_AWS-Outposts-servers_48.png
+NICE EnginFrame,Compute,Orange,5,Architecture-Icons/Arch_Compute/48/Arch_NICE-EnginFrame_48.png,Arch_NICE-EnginFrame_48.png
+Amazon Lightsail,Compute,Orange,Q,Architecture-Icons/Arch_Compute/48/Arch_Amazon-Lightsail_48.png,Arch_Amazon-Lightsail_48.png
+AWS Lambda,Compute,Orange,6,Architecture-Icons/Arch_Compute/48/Arch_AWS-Lambda_48.png,Arch_AWS-Lambda_48.png
+Amazon EC2 Image Builder,Compute,Orange,A,Architecture-Icons/Arch_Compute/48/Arch_Amazon-EC2-Image-Builder_48.png,Arch_Amazon-EC2-Image-Builder_48.png
+AWS Local Zones,Compute,Orange,7,Architecture-Icons/Arch_Compute/48/Arch_AWS-Local-Zones_48.png,Arch_AWS-Local-Zones_48.png
+AWS Outposts rack,Compute,Orange,10,Architecture-Icons/Arch_Compute/48/Arch_AWS-Outposts-rack_48.png,Arch_AWS-Outposts-rack_48.png
+AWS Outposts family,Compute,Orange,9,Architecture-Icons/Arch_Compute/48/Arch_AWS-Outposts-family_48.png,Arch_AWS-Outposts-family_48.png
+Amazon DCV,Compute,Orange,J,Architecture-Icons/Arch_Compute/48/Arch_Amazon-DCV_48.png,Arch_Amazon-DCV_48.png
+Amazon Lightsail for Research,Compute,Orange,K,Architecture-Icons/Arch_Compute/48/Arch_Amazon-Lightsail-for-Research_48.png,Arch_Amazon-Lightsail-for-Research_48.png
+AWS Batch,Compute,Orange,2,Architecture-Icons/Arch_Compute/48/Arch_AWS-Batch_48.png,Arch_AWS-Batch_48.png
+Amazon EC2 Auto Scaling,Compute,Orange,K,Architecture-Icons/Arch_Compute/48/Arch_Amazon-EC2-Auto-Scaling_48.png,Arch_Amazon-EC2-Auto-Scaling_48.png
+Amazon EC2,Compute,Orange,Q,Architecture-Icons/Arch_Compute/48/Arch_Amazon-EC2_48.png,Arch_Amazon-EC2_48.png
+AWS App Runner,Compute,Orange,A,Architecture-Icons/Arch_Compute/48/Arch_AWS-App-Runner_48.png,Arch_AWS-App-Runner_48.png
+Amazon RDS,Database,Purple,7,Architecture-Icons/Arch_Database/48/Arch_Amazon-RDS_48.png,Arch_Amazon-RDS_48.png
+Amazon ElastiCache,Database,Purple,J,Architecture-Icons/Arch_Database/48/Arch_Amazon-ElastiCache_48.png,Arch_Amazon-ElastiCache_48.png
+Amazon MemoryDB,Database,Purple,5,Architecture-Icons/Arch_Database/48/Arch_Amazon-MemoryDB_48.png,Arch_Amazon-MemoryDB_48.png
+Amazon Neptune,Database,Purple,6,Architecture-Icons/Arch_Database/48/Arch_Amazon-Neptune_48.png,Arch_Amazon-Neptune_48.png
+Amazon Timestream,Database,Purple,10,Architecture-Icons/Arch_Database/48/Arch_Amazon-Timestream_48.png,Arch_Amazon-Timestream_48.png
+Oracle Database at AWS,Database,Purple,J,Architecture-Icons/Arch_Database/48/Arch_Oracle-Database-at-AWS_48.png,Arch_Oracle-Database-at-AWS_48.png
+AWS Database Migration Service,Database,Purple,Q,Architecture-Icons/Arch_Database/48/Arch_AWS-Database-Migration-Service_48.png,Arch_AWS-Database-Migration-Service_48.png
+Amazon DocumentDB,Database,Purple,9,Architecture-Icons/Arch_Database/48/Arch_Amazon-DocumentDB_48.png,Arch_Amazon-DocumentDB_48.png
+Amazon DynamoDB,Database,Purple,10,Architecture-Icons/Arch_Database/48/Arch_Amazon-DynamoDB_48.png,Arch_Amazon-DynamoDB_48.png
+Amazon Aurora,Database,Purple,5,Architecture-Icons/Arch_Database/48/Arch_Amazon-Aurora_48.png,Arch_Amazon-Aurora_48.png
+Amazon Keyspaces,Database,Purple,K,Architecture-Icons/Arch_Database/48/Arch_Amazon-Keyspaces_48.png,Arch_Amazon-Keyspaces_48.png
+AWS rePost Private,Customer-Enablement,Purple,3,Architecture-Icons/Arch_Customer-Enablement/48/Arch_AWS-rePost-Private_48.png,Arch_AWS-rePost-Private_48.png
+AWS Managed Services,Customer-Enablement,Purple,9,Architecture-Icons/Arch_Customer-Enablement/48/Arch_AWS-Managed-Services_48.png,Arch_AWS-Managed-Services_48.png
+AWS IQ,Customer-Enablement,Purple,5,Architecture-Icons/Arch_Customer-Enablement/48/Arch_AWS-IQ_48.png,Arch_AWS-IQ_48.png
+AWS Professional Services,Customer-Enablement,Purple,Q,Architecture-Icons/Arch_Customer-Enablement/48/Arch_AWS-Professional-Services_48.png,Arch_AWS-Professional-Services_48.png
+AWS Support,Customer-Enablement,Purple,6,Architecture-Icons/Arch_Customer-Enablement/48/Arch_AWS-Support_48.png,Arch_AWS-Support_48.png
+AWS rePost,Customer-Enablement,Purple,2,Architecture-Icons/Arch_Customer-Enablement/48/Arch_AWS-rePost_48.png,Arch_AWS-rePost_48.png
+AWS Activate,Customer-Enablement,Purple,A,Architecture-Icons/Arch_Customer-Enablement/48/Arch_AWS-Activate_48.png,Arch_AWS-Activate_48.png
+AWS Training Certification,Customer-Enablement,Purple,10,Architecture-Icons/Arch_Customer-Enablement/48/Arch_AWS-Training-Certification_48.png,Arch_AWS-Training-Certification_48.png
+Reserved Instance Reporting,Cloud-Financial-Management,Green,7,Architecture-Icons/Arch_Cloud-Financial-Management/48/Arch_Reserved-Instance-Reporting_48.png,Arch_Reserved-Instance-Reporting_48.png
+AWS Cost Explorer,Cloud-Financial-Management,Green,7,Architecture-Icons/Arch_Cloud-Financial-Management/48/Arch_AWS-Cost-Explorer_48.png,Arch_AWS-Cost-Explorer_48.png
+Savings Plans,Cloud-Financial-Management,Green,8,Architecture-Icons/Arch_Cloud-Financial-Management/48/Arch_Savings-Plans_48.png,Arch_Savings-Plans_48.png
+AWS Budgets,Cloud-Financial-Management,Green,6,Architecture-Icons/Arch_Cloud-Financial-Management/48/Arch_AWS-Budgets_48.png,Arch_AWS-Budgets_48.png
+AWS Billing Conductor,Cloud-Financial-Management,Green,5,Architecture-Icons/Arch_Cloud-Financial-Management/48/Arch_AWS-Billing-Conductor_48.png,Arch_AWS-Billing-Conductor_48.png
+AWS Cost and Usage Report,Cloud-Financial-Management,Green,8,Architecture-Icons/Arch_Cloud-Financial-Management/48/Arch_AWS-Cost-and-Usage-Report_48.png,Arch_AWS-Cost-and-Usage-Report_48.png
+Amazon Detective,Security-Identity-Compliance,Red,7,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_Amazon-Detective_48.png,Arch_Amazon-Detective_48.png
+AWS Shield,Security-Identity-Compliance,Red,9,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Shield_48.png,Arch_AWS-Shield_48.png
+AWS Network Firewall,Security-Identity-Compliance,Red,A,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Network-Firewall_48.png,Arch_AWS-Network-Firewall_48.png
+Amazon Inspector,Security-Identity-Compliance,Red,9,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_Amazon-Inspector_48.png,Arch_Amazon-Inspector_48.png
+Amazon Macie,Security-Identity-Compliance,Red,J,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_Amazon-Macie_48.png,Arch_Amazon-Macie_48.png
+AWS Firewall Manager,Security-Identity-Compliance,Red,10,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Firewall-Manager_48.png,Arch_AWS-Firewall-Manager_48.png
+AWS Artifact,Security-Identity-Compliance,Red,3,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Artifact_48.png,Arch_AWS-Artifact_48.png
+AWS Identity and Access Management,Security-Identity-Compliance,Red,Q,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.png,Arch_AWS-Identity-and-Access-Management_48.png
+Amazon Cognito,Security-Identity-Compliance,Red,5,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_Amazon-Cognito_48.png,Arch_Amazon-Cognito_48.png
+Amazon Cloud Directory,Security-Identity-Compliance,Red,4,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_Amazon-Cloud-Directory_48.png,Arch_Amazon-Cloud-Directory_48.png
+AWS Resource Access Manager,Security-Identity-Compliance,Red,4,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Resource-Access-Manager_48.png,Arch_AWS-Resource-Access-Manager_48.png
+AWS Signer,Security-Identity-Compliance,Red,10,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Signer_48.png,Arch_AWS-Signer_48.png
+AWS WAF,Security-Identity-Compliance,Red,Q,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-WAF_48.png,Arch_AWS-WAF_48.png
+Amazon GuardDuty,Security-Identity-Compliance,Red,8,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_Amazon-GuardDuty_48.png,Arch_Amazon-GuardDuty_48.png
+AWS CloudHSM,Security-Identity-Compliance,Red,6,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-CloudHSM_48.png,Arch_AWS-CloudHSM_48.png
+AWS Audit Manager,Security-Identity-Compliance,Red,4,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Audit-Manager_48.png,Arch_AWS-Audit-Manager_48.png
+AWS Security Incident Response,Security-Identity-Compliance,Red,8,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Security-Incident-Response_48.png,Arch_AWS-Security-Incident-Response_48.png
+AWS Payment Cryptography,Security-Identity-Compliance,Red,2,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Payment-Cryptography_48.png,Arch_AWS-Payment-Cryptography_48.png
+AWS Secrets Manager,Security-Identity-Compliance,Red,6,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Secrets-Manager_48.png,Arch_AWS-Secrets-Manager_48.png
+AWS Directory Service,Security-Identity-Compliance,Red,8,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Directory-Service_48.png,Arch_AWS-Directory-Service_48.png
+AWS Security Hub,Security-Identity-Compliance,Red,7,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Security-Hub_48.png,Arch_AWS-Security-Hub_48.png
+Amazon Security Lake,Security-Identity-Compliance,Red,A,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_Amazon-Security-Lake_48.png,Arch_Amazon-Security-Lake_48.png
+AWS Key Management Service,Security-Identity-Compliance,Red,K,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Key-Management-Service_48.png,Arch_AWS-Key-Management-Service_48.png
+AWS Certificate Manager,Security-Identity-Compliance,Red,5,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Certificate-Manager_48.png,Arch_AWS-Certificate-Manager_48.png
+AWS Private Certificate Authority,Security-Identity-Compliance,Red,3,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-Private-Certificate-Authority_48.png,Arch_AWS-Private-Certificate-Authority_48.png
+Amazon Verified Permissions,Security-Identity-Compliance,Red,3,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_Amazon-Verified-Permissions_48.png,Arch_Amazon-Verified-Permissions_48.png
+AWS IAM Identity Center,Security-Identity-Compliance,Red,J,Architecture-Icons/Arch_Security-Identity-Compliance/48/Arch_AWS-IAM-Identity-Center_48.png,Arch_AWS-IAM-Identity-Center_48.png
+AWS Supply Chain,Business-Applications,Red,J,Architecture-Icons/Arch_Business-Applications/48/Arch_AWS-Supply-Chain_48.png,Arch_AWS-Supply-Chain_48.png
+Amazon Connect,Business-Applications,Red,6,Architecture-Icons/Arch_Business-Applications/48/Arch_Amazon-Connect_48.png,Arch_Amazon-Connect_48.png
+Amazon Pinpoint APIs,Business-Applications,Red,K,Architecture-Icons/Arch_Business-Applications/48/Arch_Amazon-Pinpoint-APIs_48.png,Arch_Amazon-Pinpoint-APIs_48.png
+AWS Wickr,Business-Applications,Red,K,Architecture-Icons/Arch_Business-Applications/48/Arch_AWS-Wickr_48.png,Arch_AWS-Wickr_48.png
+Amazon Pinpoint,Business-Applications,Red,Q,Architecture-Icons/Arch_Business-Applications/48/Arch_Amazon-Pinpoint_48.png,Arch_Amazon-Pinpoint_48.png
+AWS AppFabric,Business-Applications,Red,2,Architecture-Icons/Arch_Business-Applications/48/Arch_AWS-AppFabric_48.png,Arch_AWS-AppFabric_48.png
+Amazon WorkDocs,Business-Applications,Red,4,Architecture-Icons/Arch_Business-Applications/48/Arch_Amazon-WorkDocs_48.png,Arch_Amazon-WorkDocs_48.png
+Amazon Chime SDK,Business-Applications,Red,3,Architecture-Icons/Arch_Business-Applications/48/Arch_Amazon-Chime-SDK_48.png,Arch_Amazon-Chime-SDK_48.png
+Amazon WorkMail,Business-Applications,Red,6,Architecture-Icons/Arch_Business-Applications/48/Arch_Amazon-WorkMail_48.png,Arch_Amazon-WorkMail_48.png
+Alexa For Business,Business-Applications,Red,A,Architecture-Icons/Arch_Business-Applications/48/Arch_Alexa-For-Business_48.png,Arch_Alexa-For-Business_48.png
+Amazon Chime,Business-Applications,Red,2,Architecture-Icons/Arch_Business-Applications/48/Arch_Amazon-Chime_48.png,Arch_Amazon-Chime_48.png
+Amazon WorkDocs SDK,Business-Applications,Red,5,Architecture-Icons/Arch_Business-Applications/48/Arch_Amazon-WorkDocs-SDK_48.png,Arch_Amazon-WorkDocs-SDK_48.png
+AWS End User Messaging,Business-Applications,Red,9,Architecture-Icons/Arch_Business-Applications/48/Arch_AWS-End-User-Messaging_48.png,Arch_AWS-End-User-Messaging_48.png
+Amazon Simple Email Service,Business-Applications,Red,2,Architecture-Icons/Arch_Business-Applications/48/Arch_Amazon-Simple-Email-Service_48.png,Arch_Amazon-Simple-Email-Service_48.png
+Amazon Quantum Ledger Database,Blockchain,Orange,2,Architecture-Icons/Arch_Blockchain/48/Arch_Amazon-Quantum-Ledger-Database_48.png,Arch_Amazon-Quantum-Ledger-Database_48.png
+Amazon Managed Blockchain,Blockchain,Orange,A,Architecture-Icons/Arch_Blockchain/48/Arch_Amazon-Managed-Blockchain_48.png,Arch_Amazon-Managed-Blockchain_48.png
+Amazon Braket,Quantum-Technologies,Orange,10,Architecture-Icons/Arch_Quantum-Technologies/48/Arch_Amazon-Braket_48.png,Arch_Amazon-Braket_48.png
+FreeRTOS,Internet-of-Things,Green,5,Architecture-Icons/Arch_Internet-of-Things/48/Arch_FreeRTOS_48.png,Arch_FreeRTOS_48.png
+AWS IoT SiteWise,Internet-of-Things,Green,4,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-SiteWise_48.png,Arch_AWS-IoT-SiteWise_48.png
+AWS IoT Events,Internet-of-Things,Green,K,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-Events_48.png,Arch_AWS-IoT-Events_48.png
+AWS IoT Device Defender,Internet-of-Things,Green,J,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-Device-Defender_48.png,Arch_AWS-IoT-Device-Defender_48.png
+AWS IoT TwinMaker,Internet-of-Things,Green,5,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-TwinMaker_48.png,Arch_AWS-IoT-TwinMaker_48.png
+AWS IoT Button,Internet-of-Things,Green,9,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-Button_48.png,Arch_AWS-IoT-Button_48.png
+AWS IoT Analytics,Internet-of-Things,Green,8,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-Analytics_48.png,Arch_AWS-IoT-Analytics_48.png
+AWS IoT FleetWise,Internet-of-Things,Green,2,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-FleetWise_48.png,Arch_AWS-IoT-FleetWise_48.png
+AWS IoT Greengrass,Internet-of-Things,Green,3,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-Greengrass_48.png,Arch_AWS-IoT-Greengrass_48.png
+AWS IoT Core,Internet-of-Things,Green,10,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-Core_48.png,Arch_AWS-IoT-Core_48.png
+AWS IoT ExpressLink,Internet-of-Things,Green,A,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-ExpressLink_48.png,Arch_AWS-IoT-ExpressLink_48.png
+AWS IoT Device Management,Internet-of-Things,Green,Q,Architecture-Icons/Arch_Internet-of-Things/48/Arch_AWS-IoT-Device-Management_48.png,Arch_AWS-IoT-Device-Management_48.png
+AWS RoboMaker,Robotics,Red,5,Architecture-Icons/Arch_Robotics/48/Arch_AWS-RoboMaker_48.png,Arch_AWS-RoboMaker_48.png
+AWS CodeArtifact,Developer-Tools,Purple,2,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-CodeArtifact_48.png,Arch_AWS-CodeArtifact_48.png
+AWS CodePipeline,Developer-Tools,Purple,6,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-CodePipeline_48.png,Arch_AWS-CodePipeline_48.png
+AWS Command Line Interface,Developer-Tools,Purple,7,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-Command-Line-Interface_48.png,Arch_AWS-Command-Line-Interface_48.png
+AWS Infrastructure Composer,Developer-Tools,Purple,6,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-Infrastructure-Composer_48.png,Arch_AWS-Infrastructure-Composer_48.png
+Amazon Corretto,Developer-Tools,Purple,8,Architecture-Icons/Arch_Developer-Tools/48/Arch_Amazon-Corretto_48.png,Arch_Amazon-Corretto_48.png
+AWS X Ray,Developer-Tools,Purple,A,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-X-Ray_48.png,Arch_AWS-X-Ray_48.png
+Amazon CodeCatalyst,Developer-Tools,Purple,7,Architecture-Icons/Arch_Developer-Tools/48/Arch_Amazon-CodeCatalyst_48.png,Arch_Amazon-CodeCatalyst_48.png
+AWS Cloud Development Kit,Developer-Tools,Purple,10,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-Cloud-Development-Kit_48.png,Arch_AWS-Cloud-Development-Kit_48.png
+AWS Cloud9,Developer-Tools,Purple,J,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-Cloud9_48.png,Arch_AWS-Cloud9_48.png
+AWS Fault Injection Service,Developer-Tools,Purple,2,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-Fault-Injection-Service_48.png,Arch_AWS-Fault-Injection-Service_48.png
+AWS CodeCommit,Developer-Tools,Purple,4,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-CodeCommit_48.png,Arch_AWS-CodeCommit_48.png
+AWS Cloud Control API,Developer-Tools,Purple,9,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-Cloud-Control-API_48.png,Arch_AWS-Cloud-Control-API_48.png
+AWS Tools and SDKs,Developer-Tools,Purple,9,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-Tools-and-SDKs_48.png,Arch_AWS-Tools-and-SDKs_48.png
+AWS CloudShell,Developer-Tools,Purple,K,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-CloudShell_48.png,Arch_AWS-CloudShell_48.png
+AWS CodeDeploy,Developer-Tools,Purple,5,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-CodeDeploy_48.png,Arch_AWS-CodeDeploy_48.png
+AWS CodeBuild,Developer-Tools,Purple,3,Architecture-Icons/Arch_Developer-Tools/48/Arch_AWS-CodeBuild_48.png,Arch_AWS-CodeBuild_48.png
+Amazon Elastic VMware Service,Migration-Modernization,Green,K,Architecture-Icons/Arch_Migration-Modernization/48/Arch_Amazon-Elastic-VMware-Service_48.png,Arch_Amazon-Elastic-VMware-Service_48.png
+AWS DataSync,Migration-Modernization,Green,10,Architecture-Icons/Arch_Migration-Modernization/48/Arch_AWS-DataSync_48.png,Arch_AWS-DataSync_48.png
+AWS Transfer Family,Migration-Modernization,Green,A,Architecture-Icons/Arch_Migration-Modernization/48/Arch_AWS-Transfer-Family_48.png,Arch_AWS-Transfer-Family_48.png
+AWS Application Migration Service,Migration-Modernization,Green,3,Architecture-Icons/Arch_Migration-Modernization/48/Arch_AWS-Application-Migration-Service_48.png,Arch_AWS-Application-Migration-Service_48.png
+AWS Application Discovery Service,Migration-Modernization,Green,2,Architecture-Icons/Arch_Migration-Modernization/48/Arch_AWS-Application-Discovery-Service_48.png,Arch_AWS-Application-Discovery-Service_48.png
+AWS Data Transfer Terminal,Migration-Modernization,Green,9,Architecture-Icons/Arch_Migration-Modernization/48/Arch_AWS-Data-Transfer-Terminal_48.png,Arch_AWS-Data-Transfer-Terminal_48.png
+AWS Migration Hub,Migration-Modernization,Green,8,Architecture-Icons/Arch_Migration-Modernization/48/Arch_AWS-Migration-Hub_48.png,Arch_AWS-Migration-Hub_48.png
+AWS Migration Evaluator,Migration-Modernization,Green,7,Architecture-Icons/Arch_Migration-Modernization/48/Arch_AWS-Migration-Evaluator_48.png,Arch_AWS-Migration-Evaluator_48.png
+AWS Mainframe Modernization,Migration-Modernization,Green,6,Architecture-Icons/Arch_Migration-Modernization/48/Arch_AWS-Mainframe-Modernization_48.png,Arch_AWS-Mainframe-Modernization_48.png
+AWS Marketplace Dark,General-Icons,Blue,K,Architecture-Icons/Arch_General-Icons/48/Arch_AWS-Marketplace_Dark_48.png,Arch_AWS-Marketplace_Dark_48.png
+AWS Marketplace Light,General-Icons,Blue,A,Architecture-Icons/Arch_General-Icons/48/Arch_AWS-Marketplace_Light_48.png,Arch_AWS-Marketplace_Light_48.png
+Amazon EKS Distro,Containers,Orange,5,Architecture-Icons/Arch_Containers/48/Arch_Amazon-EKS-Distro_48.png,Arch_Amazon-EKS-Distro_48.png
+Amazon ECS Anywhere,Containers,Orange,2,Architecture-Icons/Arch_Containers/48/Arch_Amazon-ECS-Anywhere_48.png,Arch_Amazon-ECS-Anywhere_48.png
+Amazon Elastic Container Service,Containers,Orange,7,Architecture-Icons/Arch_Containers/48/Arch_Amazon-Elastic-Container-Service_48.png,Arch_Amazon-Elastic-Container-Service_48.png
+Red Hat OpenShift Service on AWS,Containers,Orange,6,Architecture-Icons/Arch_Containers/48/Arch_Red-Hat-OpenShift-Service-on-AWS_48.png,Arch_Red-Hat-OpenShift-Service-on-AWS_48.png
+Amazon Elastic Container Registry,Containers,Orange,6,Architecture-Icons/Arch_Containers/48/Arch_Amazon-Elastic-Container-Registry_48.png,Arch_Amazon-Elastic-Container-Registry_48.png
+Amazon Elastic Kubernetes Service,Containers,Orange,8,Architecture-Icons/Arch_Containers/48/Arch_Amazon-Elastic-Kubernetes-Service_48.png,Arch_Amazon-Elastic-Kubernetes-Service_48.png
+AWS Fargate,Containers,Orange,5,Architecture-Icons/Arch_Containers/48/Arch_AWS-Fargate_48.png,Arch_AWS-Fargate_48.png
+Amazon EKS Cloud,Containers,Orange,4,Architecture-Icons/Arch_Containers/48/Arch_Amazon-EKS-Cloud_48.png,Arch_Amazon-EKS-Cloud_48.png
+Amazon EKS Anywhere,Containers,Orange,3,Architecture-Icons/Arch_Containers/48/Arch_Amazon-EKS-Anywhere_48.png,Arch_Amazon-EKS-Anywhere_48.png
+AWS User Notifications,Management-Governance,Purple,Q,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-User-Notifications_48.png,Arch_AWS-User-Notifications_48.png
+AWS Control Tower,Management-Governance,Purple,J,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Control-Tower_48.png,Arch_AWS-Control-Tower_48.png
+AWS Health Dashboard,Management-Governance,Purple,4,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Health-Dashboard_48.png,Arch_AWS-Health-Dashboard_48.png
+AWS Application Auto Scaling,Management-Governance,Purple,4,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Application-Auto-Scaling_48.png,Arch_AWS-Application-Auto-Scaling_48.png
+AWS Resource Explorer,Management-Governance,Purple,2,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Resource-Explorer_48.png,Arch_AWS-Resource-Explorer_48.png
+AWS Well Architected Tool,Management-Governance,Purple,K,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Well-Architected-Tool_48.png,Arch_AWS-Well-Architected-Tool_48.png
+AWS Auto Scaling,Management-Governance,Purple,5,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Auto-Scaling_48.png,Arch_AWS-Auto-Scaling_48.png
+AWS CloudTrail,Management-Governance,Purple,A,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-CloudTrail_48.png,Arch_AWS-CloudTrail_48.png
+AWS Compute Optimizer,Management-Governance,Purple,8,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Compute-Optimizer_48.png,Arch_AWS-Compute-Optimizer_48.png
+AWS Proton,Management-Governance,Purple,K,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Proton_48.png,Arch_AWS-Proton_48.png
+AWS Backint Agent,Management-Governance,Purple,7,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Backint-Agent_48.png,Arch_AWS-Backint-Agent_48.png
+AWS Distro for OpenTelemetry,Management-Governance,Purple,K,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Distro-for-OpenTelemetry_48.png,Arch_AWS-Distro-for-OpenTelemetry_48.png
+AWS Resilience Hub,Management-Governance,Purple,A,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Resilience-Hub_48.png,Arch_AWS-Resilience-Hub_48.png
+AWS Chatbot,Management-Governance,Purple,8,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Chatbot_48.png,Arch_AWS-Chatbot_48.png
+AWS Systems Manager,Management-Governance,Purple,7,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Systems-Manager_48.png,Arch_AWS-Systems-Manager_48.png
+AWS Trusted Advisor,Management-Governance,Purple,J,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Trusted-Advisor_48.png,Arch_AWS-Trusted-Advisor_48.png
+AWS Telco Network Builder,Management-Governance,Purple,8,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Telco-Network-Builder_48.png,Arch_AWS-Telco-Network-Builder_48.png
+Amazon CloudWatch,Management-Governance,Purple,6,Architecture-Icons/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.png,Arch_Amazon-CloudWatch_48.png
+AWS Config,Management-Governance,Purple,9,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Config_48.png,Arch_AWS-Config_48.png
+Amazon Managed Service for Prometheus,Management-Governance,Purple,3,Architecture-Icons/Arch_Management-Governance/48/Arch_Amazon-Managed-Service-for-Prometheus_48.png,Arch_Amazon-Managed-Service-for-Prometheus_48.png
+AWS AppConfig,Management-Governance,Purple,2,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-AppConfig_48.png,Arch_AWS-AppConfig_48.png
+AWS Service Catalog,Management-Governance,Purple,3,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Service-Catalog_48.png,Arch_AWS-Service-Catalog_48.png
+Amazon Managed Grafana,Management-Governance,Purple,2,Architecture-Icons/Arch_Management-Governance/48/Arch_Amazon-Managed-Grafana_48.png,Arch_Amazon-Managed-Grafana_48.png
+AWS CloudFormation,Management-Governance,Purple,Q,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-CloudFormation_48.png,Arch_AWS-CloudFormation_48.png
+AWS Launch Wizard,Management-Governance,Purple,7,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Launch-Wizard_48.png,Arch_AWS-Launch-Wizard_48.png
+AWS Management Console,Management-Governance,Purple,10,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Management-Console_48.png,Arch_AWS-Management-Console_48.png
+AWS Organizations,Management-Governance,Purple,J,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Organizations_48.png,Arch_AWS-Organizations_48.png
+AWS Console Mobile Application,Management-Governance,Purple,10,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Console-Mobile-Application_48.png,Arch_AWS-Console-Mobile-Application_48.png
+AWS License Manager,Management-Governance,Purple,8,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-License-Manager_48.png,Arch_AWS-License-Manager_48.png
+AWS Service Management Connector,Management-Governance,Purple,4,Architecture-Icons/Arch_Management-Governance/48/Arch_AWS-Service-Management-Connector_48.png,Arch_AWS-Service-Management-Connector_48.png
+Amazon Managed Workflows for Apache Airflow,App-Integration,Purple,4,Architecture-Icons/Arch_App-Integration/48/Arch_Amazon-Managed-Workflows-for-Apache-Airflow_48.png,Arch_Amazon-Managed-Workflows-for-Apache-Airflow_48.png
+AWS AppSync,App-Integration,Purple,3,Architecture-Icons/Arch_App-Integration/48/Arch_AWS-AppSync_48.png,Arch_AWS-AppSync_48.png
+Amazon EventBridge,App-Integration,Purple,Q,Architecture-Icons/Arch_App-Integration/48/Arch_Amazon-EventBridge_48.png,Arch_Amazon-EventBridge_48.png
+AWS Express Workflows,App-Integration,Purple,A,Architecture-Icons/Arch_App-Integration/48/Arch_AWS-Express-Workflows_48.png,Arch_AWS-Express-Workflows_48.png
+AWS Step Functions,App-Integration,Purple,5,Architecture-Icons/Arch_App-Integration/48/Arch_AWS-Step-Functions_48.png,Arch_AWS-Step-Functions_48.png
+AWS B2B Data Interchange,App-Integration,Purple,6,Architecture-Icons/Arch_App-Integration/48/Arch_AWS-B2B-Data-Interchange_48.png,Arch_AWS-B2B-Data-Interchange_48.png
+Amazon MQ,App-Integration,Purple,A,Architecture-Icons/Arch_App-Integration/48/Arch_Amazon-MQ_48.png,Arch_Amazon-MQ_48.png
+Amazon Simple Notification Service,App-Integration,Purple,8,Architecture-Icons/Arch_App-Integration/48/Arch_Amazon-Simple-Notification-Service_48.png,Arch_Amazon-Simple-Notification-Service_48.png
+Amazon Simple Queue Service,App-Integration,Purple,9,Architecture-Icons/Arch_App-Integration/48/Arch_Amazon-Simple-Queue-Service_48.png,Arch_Amazon-Simple-Queue-Service_48.png
+Amazon AppFlow,App-Integration,Purple,4,Architecture-Icons/Arch_App-Integration/48/Arch_Amazon-AppFlow_48.png,Arch_Amazon-AppFlow_48.png
+Open 3D Engine,Games,Blue,4,Architecture-Icons/Arch_Games/48/Arch_Open-3D-Engine_48.png,Arch_Open-3D-Engine_48.png
+Amazon GameLift,Games,Blue,3,Architecture-Icons/Arch_Games/48/Arch_Amazon-GameLift_48.png,Arch_Amazon-GameLift_48.png
+AWS Thinkbox Deadline,Media-Services,Orange,3,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Thinkbox-Deadline_48.png,Arch_AWS-Thinkbox-Deadline_48.png
+AWS Elemental Link,Media-Services,Orange,9,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-Link_48.png,Arch_AWS-Elemental-Link_48.png
+AWS Thinkbox Stoke,Media-Services,Orange,7,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Thinkbox-Stoke_48.png,Arch_AWS-Thinkbox-Stoke_48.png
+AWS Elemental MediaConnect,Media-Services,Orange,J,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-MediaConnect_48.png,Arch_AWS-Elemental-MediaConnect_48.png
+AWS Elemental MediaStore,Media-Services,Orange,2,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-MediaStore_48.png,Arch_AWS-Elemental-MediaStore_48.png
+AWS Elemental Server,Media-Services,Orange,4,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-Server_48.png,Arch_AWS-Elemental-Server_48.png
+AWS Elemental MediaLive,Media-Services,Orange,K,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-MediaLive_48.png,Arch_AWS-Elemental-MediaLive_48.png
+AWS Elemental Appliances & Software,Media-Services,Orange,6,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-Appliances-&-Software_48.png,Arch_AWS-Elemental-Appliances-&-Software_48.png
+AWS Thinkbox Krakatoa,Media-Services,Orange,5,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Thinkbox-Krakatoa_48.png,Arch_AWS-Thinkbox-Krakatoa_48.png
+Amazon Elastic Transcoder,Media-Services,Orange,9,Architecture-Icons/Arch_Media-Services/48/Arch_Amazon-Elastic-Transcoder_48.png,Arch_Amazon-Elastic-Transcoder_48.png
+AWS Elemental MediaPackage,Media-Services,Orange,A,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-MediaPackage_48.png,Arch_AWS-Elemental-MediaPackage_48.png
+Amazon Kinesis Video Streams,Media-Services,Orange,J,Architecture-Icons/Arch_Media-Services/48/Arch_Amazon-Kinesis-Video-Streams_48.png,Arch_Amazon-Kinesis-Video-Streams_48.png
+AWS Elemental MediaTailor,Media-Services,Orange,3,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-MediaTailor_48.png,Arch_AWS-Elemental-MediaTailor_48.png
+AWS Thinkbox Sequoia,Media-Services,Orange,6,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Thinkbox-Sequoia_48.png,Arch_AWS-Thinkbox-Sequoia_48.png
+Amazon Interactive Video Service,Media-Services,Orange,10,Architecture-Icons/Arch_Media-Services/48/Arch_Amazon-Interactive-Video-Service_48.png,Arch_Amazon-Interactive-Video-Service_48.png
+AWS Thinkbox XMesh,Media-Services,Orange,8,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Thinkbox-XMesh_48.png,Arch_AWS-Thinkbox-XMesh_48.png
+AWS Thinkbox Frost,Media-Services,Orange,4,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Thinkbox-Frost_48.png,Arch_AWS-Thinkbox-Frost_48.png
+AWS Elemental Live,Media-Services,Orange,10,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-Live_48.png,Arch_AWS-Elemental-Live_48.png
+AWS Elemental Delta,Media-Services,Orange,8,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-Delta_48.png,Arch_AWS-Elemental-Delta_48.png
+AWS Elemental Conductor,Media-Services,Orange,7,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-Conductor_48.png,Arch_AWS-Elemental-Conductor_48.png
+AWS Elemental MediaConvert,Media-Services,Orange,Q,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Elemental-MediaConvert_48.png,Arch_AWS-Elemental-MediaConvert_48.png
+AWS Deadline Cloud,Media-Services,Orange,4,Architecture-Icons/Arch_Media-Services/48/Arch_AWS-Deadline-Cloud_48.png,Arch_AWS-Deadline-Cloud_48.png
+AWS HealthOmics,Artificial-Intelligence,Green,6,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-HealthOmics_48.png,Arch_AWS-HealthOmics_48.png
+Amazon Rekognition,Artificial-Intelligence,Green,6,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Rekognition_48.png,Arch_Amazon-Rekognition_48.png
+Amazon Forecast,Artificial-Intelligence,Green,7,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Forecast_48.png,Arch_Amazon-Forecast_48.png
+Amazon Augmented AI A2I,Artificial-Intelligence,Green,3,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Augmented-AI-A2I_48.png,Arch_Amazon-Augmented-AI-A2I_48.png
+Amazon Nova,Artificial-Intelligence,Green,2,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Nova_48.png,Arch_Amazon-Nova_48.png
+Amazon Lookout for Equipment,Artificial-Intelligence,Green,J,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Lookout-for-Equipment_48.png,Arch_Amazon-Lookout-for-Equipment_48.png
+AWS App Studio,Artificial-Intelligence,Green,A,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-App-Studio_48.png,Arch_AWS-App-Studio_48.png
+PyTorch on AWS,Artificial-Intelligence,Green,6,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_PyTorch-on-AWS_48.png,Arch_PyTorch-on-AWS_48.png
+Amazon SageMaker Studio Lab,Artificial-Intelligence,Green,10,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-SageMaker-Studio-Lab_48.png,Arch_Amazon-SageMaker-Studio-Lab_48.png
+Amazon Personalize,Artificial-Intelligence,Green,3,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Personalize_48.png,Arch_Amazon-Personalize_48.png
+Amazon Textract,Artificial-Intelligence,Green,K,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Textract_48.png,Arch_Amazon-Textract_48.png
+AWS DeepLens,Artificial-Intelligence,Green,A,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-DeepLens_48.png,Arch_AWS-DeepLens_48.png
+Amazon Bedrock,Artificial-Intelligence,Green,4,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Bedrock_48.png,Arch_Amazon-Bedrock_48.png
+AWS DeepRacer,Artificial-Intelligence,Green,2,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-DeepRacer_48.png,Arch_AWS-DeepRacer_48.png
+Apache MXNet on AWS,Artificial-Intelligence,Green,4,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Apache-MXNet-on-AWS_48.png,Arch_Apache-MXNet-on-AWS_48.png
+Amazon Polly,Artificial-Intelligence,Green,4,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Polly_48.png,Arch_Amazon-Polly_48.png
+AWS HealthLake,Artificial-Intelligence,Green,5,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-HealthLake_48.png,Arch_AWS-HealthLake_48.png
+AWS HealthScribe,Artificial-Intelligence,Green,7,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-HealthScribe_48.png,Arch_AWS-HealthScribe_48.png
+AWS Deep Learning Containers,Artificial-Intelligence,Green,Q,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-Deep-Learning-Containers_48.png,Arch_AWS-Deep-Learning-Containers_48.png
+Amazon Lookout for Vision,Artificial-Intelligence,Green,K,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Lookout-for-Vision_48.png,Arch_Amazon-Lookout-for-Vision_48.png
+Amazon DevOps Guru,Artificial-Intelligence,Green,9,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-DevOps-Guru_48.png,Arch_Amazon-DevOps-Guru_48.png
+Amazon SageMaker AI,Artificial-Intelligence,Green,8,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-SageMaker-AI_48.png,Arch_Amazon-SageMaker-AI_48.png
+AWS Deep Learning AMIs,Artificial-Intelligence,Green,J,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-Deep-Learning-AMIs_48.png,Arch_AWS-Deep-Learning-AMIs_48.png
+AWS DeepComposer,Artificial-Intelligence,Green,K,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-DeepComposer_48.png,Arch_AWS-DeepComposer_48.png
+Amazon Transcribe,Artificial-Intelligence,Green,A,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Transcribe_48.png,Arch_Amazon-Transcribe_48.png
+Amazon Q,Artificial-Intelligence,Green,5,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Q_48.png,Arch_Amazon-Q_48.png
+Amazon Monitron,Artificial-Intelligence,Green,A,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Monitron_48.png,Arch_Amazon-Monitron_48.png
+Amazon Lookout for Metrics,Artificial-Intelligence,Green,Q,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Lookout-for-Metrics_48.png,Arch_Amazon-Lookout-for-Metrics_48.png
+Amazon Elastic Inference,Artificial-Intelligence,Green,Q,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Elastic-Inference_48.png,Arch_Amazon-Elastic-Inference_48.png
+Amazon Comprehend Medical,Artificial-Intelligence,Green,8,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Comprehend-Medical_48.png,Arch_Amazon-Comprehend-Medical_48.png
+Amazon Comprehend,Artificial-Intelligence,Green,7,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Comprehend_48.png,Arch_Amazon-Comprehend_48.png
+Amazon Kendra,Artificial-Intelligence,Green,9,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Kendra_48.png,Arch_Amazon-Kendra_48.png
+Amazon CodeGuru,Artificial-Intelligence,Green,5,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-CodeGuru_48.png,Arch_Amazon-CodeGuru_48.png
+TensorFlow on AWS,Artificial-Intelligence,Green,9,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_TensorFlow-on-AWS_48.png,Arch_TensorFlow-on-AWS_48.png
+Amazon SageMaker Ground Truth,Artificial-Intelligence,Green,9,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-SageMaker-Ground-Truth_48.png,Arch_Amazon-SageMaker-Ground-Truth_48.png
+Amazon Lex,Artificial-Intelligence,Green,10,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Lex_48.png,Arch_Amazon-Lex_48.png
+AWS HealthImaging,Artificial-Intelligence,Green,4,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-HealthImaging_48.png,Arch_AWS-HealthImaging_48.png
+AWS Panorama,Artificial-Intelligence,Green,10,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-Panorama_48.png,Arch_AWS-Panorama_48.png
+Amazon Fraud Detector,Artificial-Intelligence,Green,8,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Fraud-Detector_48.png,Arch_Amazon-Fraud-Detector_48.png
+Amazon CodeWhisperer,Artificial-Intelligence,Green,6,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-CodeWhisperer_48.png,Arch_Amazon-CodeWhisperer_48.png
+AWS Neuron,Artificial-Intelligence,Green,9,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_AWS-Neuron_48.png,Arch_AWS-Neuron_48.png
+Amazon Translate,Artificial-Intelligence,Green,2,Architecture-Icons/Arch_Artificial-Intelligence/48/Arch_Amazon-Translate_48.png,Arch_Amazon-Translate_48.png
+AWS Ground Station,Satellite,Purple,3,Architecture-Icons/Arch_Satellite/48/Arch_AWS-Ground-Station_48.png,Arch_AWS-Ground-Station_48.png
+AWS Storage Gateway,Storage,Green,K,Architecture-Icons/Arch_Storage/48/Arch_AWS-Storage-Gateway_48.png,Arch_AWS-Storage-Gateway_48.png
+Amazon Simple Storage Service Glacier,Storage,Green,Q,Architecture-Icons/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service-Glacier_48.png,Arch_Amazon-Simple-Storage-Service-Glacier_48.png
+AWS Backup,Storage,Green,4,Architecture-Icons/Arch_Storage/48/Arch_AWS-Backup_48.png,Arch_AWS-Backup_48.png
+Amazon FSx for WFS,Storage,Green,5,Architecture-Icons/Arch_Storage/48/Arch_Amazon-FSx-for-WFS_48.png,Arch_Amazon-FSx-for-WFS_48.png
+Amazon File Cache,Storage,Green,6,Architecture-Icons/Arch_Storage/48/Arch_Amazon-File-Cache_48.png,Arch_Amazon-File-Cache_48.png
+AWS Snowball Edge,Storage,Green,Q,Architecture-Icons/Arch_Storage/48/Arch_AWS-Snowball-Edge_48.png,Arch_AWS-Snowball-Edge_48.png
+Amazon FSx for OpenZFS,Storage,Green,4,Architecture-Icons/Arch_Storage/48/Arch_Amazon-FSx-for-OpenZFS_48.png,Arch_Amazon-FSx-for-OpenZFS_48.png
+AWS Snowball,Storage,Green,J,Architecture-Icons/Arch_Storage/48/Arch_AWS-Snowball_48.png,Arch_AWS-Snowball_48.png
+Amazon FSx for NetApp ONTAP,Storage,Green,3,Architecture-Icons/Arch_Storage/48/Arch_Amazon-FSx-for-NetApp-ONTAP_48.png,Arch_Amazon-FSx-for-NetApp-ONTAP_48.png
+Amazon FSx,Storage,Green,A,Architecture-Icons/Arch_Storage/48/Arch_Amazon-FSx_48.png,Arch_Amazon-FSx_48.png
+Amazon FSx for Lustre,Storage,Green,2,Architecture-Icons/Arch_Storage/48/Arch_Amazon-FSx-for-Lustre_48.png,Arch_Amazon-FSx-for-Lustre_48.png
+Amazon S3 on Outposts,Storage,Green,7,Architecture-Icons/Arch_Storage/48/Arch_Amazon-S3-on-Outposts_48.png,Arch_Amazon-S3-on-Outposts_48.png
+Amazon EFS,Storage,Green,10,Architecture-Icons/Arch_Storage/48/Arch_Amazon-EFS_48.png,Arch_Amazon-EFS_48.png
+AWS Elastic Disaster Recovery,Storage,Green,3,Architecture-Icons/Arch_Storage/48/Arch_AWS-Elastic-Disaster-Recovery_48.png,Arch_AWS-Elastic-Disaster-Recovery_48.png
+Amazon Simple Storage Service,Storage,Green,J,Architecture-Icons/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.png,Arch_Amazon-Simple-Storage-Service_48.png
+Amazon Elastic Block Store,Storage,Green,J,Architecture-Icons/Arch_Storage/48/Arch_Amazon-Elastic-Block-Store_48.png,Arch_Amazon-Elastic-Block-Store_48.png
+AWS Amplify,Front-End-Web-Mobile,Red,A,Architecture-Icons/Arch_Front-End-Web-Mobile/48/Arch_AWS-Amplify_48.png,Arch_AWS-Amplify_48.png
+Amazon Location Service,Front-End-Web-Mobile,Red,10,Architecture-Icons/Arch_Front-End-Web-Mobile/48/Arch_Amazon-Location-Service_48.png,Arch_Amazon-Location-Service_48.png
+AWS Device Farm,Front-End-Web-Mobile,Red,7,Architecture-Icons/Arch_Front-End-Web-Mobile/48/Arch_AWS-Device-Farm_48.png,Arch_AWS-Device-Farm_48.png
+Amazon CloudSearch,Analytics,Blue,J,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-CloudSearch_48.png,Arch_Amazon-CloudSearch_48.png
+Amazon OpenSearch Service,Analytics,Blue,9,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-OpenSearch-Service_48.png,Arch_Amazon-OpenSearch-Service_48.png
+Amazon Redshift,Analytics,Blue,J,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-Redshift_48.png,Arch_Amazon-Redshift_48.png
+Amazon QuickSight,Analytics,Blue,10,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-QuickSight_48.png,Arch_Amazon-QuickSight_48.png
+Amazon EMR,Analytics,Blue,A,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-EMR_48.png,Arch_Amazon-EMR_48.png
+AWS Glue,Analytics,Blue,10,Architecture-Icons/Arch_Analytics/48/Arch_AWS-Glue_48.png,Arch_AWS-Glue_48.png
+AWS Entity Resolution,Analytics,Blue,8,Architecture-Icons/Arch_Analytics/48/Arch_AWS-Entity-Resolution_48.png,Arch_AWS-Entity-Resolution_48.png
+Amazon Managed Service for Apache Flink,Analytics,Blue,7,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-Managed-Service-for-Apache-Flink_48.png,Arch_Amazon-Managed-Service-for-Apache-Flink_48.png
+Amazon FinSpace,Analytics,Blue,2,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-FinSpace_48.png,Arch_Amazon-FinSpace_48.png
+AWS Glue DataBrew,Analytics,Blue,J,Architecture-Icons/Arch_Analytics/48/Arch_AWS-Glue-DataBrew_48.png,Arch_AWS-Glue-DataBrew_48.png
+Amazon Kinesis Video Streams,Analytics,Blue,6,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-Kinesis-Video-Streams_48.png,Arch_Amazon-Kinesis-Video-Streams_48.png
+Amazon Managed Streaming for Apache Kafka,Analytics,Blue,8,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-Managed-Streaming-for-Apache-Kafka_48.png,Arch_Amazon-Managed-Streaming-for-Apache-Kafka_48.png
+Amazon SageMaker,Analytics,Blue,K,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-SageMaker_48.png,Arch_Amazon-SageMaker_48.png
+Amazon Athena,Analytics,Blue,9,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-Athena_48.png,Arch_Amazon-Athena_48.png
+AWS Lake Formation,Analytics,Blue,Q,Architecture-Icons/Arch_Analytics/48/Arch_AWS-Lake-Formation_48.png,Arch_AWS-Lake-Formation_48.png
+AWS Data Exchange,Analytics,Blue,6,Architecture-Icons/Arch_Analytics/48/Arch_AWS-Data-Exchange_48.png,Arch_AWS-Data-Exchange_48.png
+Amazon Data Firehose,Analytics,Blue,Q,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-Data-Firehose_48.png,Arch_Amazon-Data-Firehose_48.png
+Amazon Kinesis Data Streams,Analytics,Blue,5,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-Kinesis-Data-Streams_48.png,Arch_Amazon-Kinesis-Data-Streams_48.png
+Amazon Kinesis,Analytics,Blue,4,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-Kinesis_48.png,Arch_Amazon-Kinesis_48.png
+Amazon DataZone,Analytics,Blue,K,Architecture-Icons/Arch_Analytics/48/Arch_Amazon-DataZone_48.png,Arch_Amazon-DataZone_48.png
+AWS Clean Rooms,Analytics,Blue,2,Architecture-Icons/Arch_Analytics/48/Arch_AWS-Clean-Rooms_48.png,Arch_AWS-Clean-Rooms_48.png
+Amazon API Gateway,Networking-Content-Delivery,Blue,7,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_Amazon-API-Gateway_48.png,Arch_Amazon-API-Gateway_48.png
+AWS Cloud WAN,Networking-Content-Delivery,Blue,5,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-Cloud-WAN_48.png,Arch_AWS-Cloud-WAN_48.png
+AWS Site to Site VPN,Networking-Content-Delivery,Blue,4,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-Site-to-Site-VPN_48.png,Arch_AWS-Site-to-Site-VPN_48.png
+AWS Private 5G,Networking-Content-Delivery,Blue,2,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-Private-5G_48.png,Arch_AWS-Private-5G_48.png
+AWS PrivateLink,Networking-Content-Delivery,Blue,3,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-PrivateLink_48.png,Arch_AWS-PrivateLink_48.png
+Amazon VPC Lattice,Networking-Content-Delivery,Blue,A,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_Amazon-VPC-Lattice_48.png,Arch_Amazon-VPC-Lattice_48.png
+AWS Client VPN,Networking-Content-Delivery,Blue,3,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-Client-VPN_48.png,Arch_AWS-Client-VPN_48.png
+AWS App Mesh,Networking-Content-Delivery,Blue,A,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-App-Mesh_48.png,Arch_AWS-App-Mesh_48.png
+Amazon Application Recovery Controller,Networking-Content-Delivery,Blue,8,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_Amazon-Application-Recovery-Controller_48.png,Arch_Amazon-Application-Recovery-Controller_48.png
+AWS Direct Connect,Networking-Content-Delivery,Blue,7,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-Direct-Connect_48.png,Arch_AWS-Direct-Connect_48.png
+AWS Global Accelerator,Networking-Content-Delivery,Blue,9,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-Global-Accelerator_48.png,Arch_AWS-Global-Accelerator_48.png
+AWS Verified Access,Networking-Content-Delivery,Blue,6,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-Verified-Access_48.png,Arch_AWS-Verified-Access_48.png
+AWS Transit Gateway,Networking-Content-Delivery,Blue,5,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-Transit-Gateway_48.png,Arch_AWS-Transit-Gateway_48.png
+Amazon CloudFront,Networking-Content-Delivery,Blue,10,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_Amazon-CloudFront_48.png,Arch_Amazon-CloudFront_48.png
+AWS Cloud Map,Networking-Content-Delivery,Blue,4,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_AWS-Cloud-Map_48.png,Arch_AWS-Cloud-Map_48.png
+Elastic Load Balancing,Networking-Content-Delivery,Blue,3,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_Elastic-Load-Balancing_48.png,Arch_Elastic-Load-Balancing_48.png
+Amazon Virtual Private Cloud,Networking-Content-Delivery,Blue,2,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_Amazon-Virtual-Private-Cloud_48.png,Arch_Amazon-Virtual-Private-Cloud_48.png
+Amazon Route 53,Networking-Content-Delivery,Blue,Q,Architecture-Icons/Arch_Networking-Content-Delivery/48/Arch_Amazon-Route-53_48.png,Arch_Amazon-Route-53_48.png

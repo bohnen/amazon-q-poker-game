@@ -3,9 +3,9 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "aws-porker"
+name = "aws-poker"
 version = "0.1.0"
-description = "AWS Porker project"
+description = "AWS Poker project"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
@@ -27,7 +27,7 @@ dev = [
 ]
 
 [tool.setuptools]
-packages = ["aws_porker"]
+packages = ["aws_poker"]
 
 [tool.black]
 line-length = 88

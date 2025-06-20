@@ -1,13 +1,14 @@
 """Game module for AWS Porker."""
 
-import pygame
 import sys
+
+import pygame
 
 
 class Game:
     """Main game class for AWS Porker."""
 
-    def __init__(self, width=800, height=600, title="AWS Porker"):
+    def __init__(self, width=800, height=600, title="AWS Poker"):
         """Initialize the game.
         
         Args:

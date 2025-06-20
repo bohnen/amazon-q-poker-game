@@ -1,0 +1,44 @@
+[
+  {
+    "code": "DEPLOY-LAMBDA-0376",
+    "total_score": 2110,
+    "rounds": [
+      {
+        "hand": "High Card",
+        "score": 10,
+        "details": {
+          "high_card": "J"
+        }
+      },
+      {
+        "hand": "IoT Ecosystem",
+        "score": 1000,
+        "details": {
+          "iot_focus": true
+        }
+      },
+      {
+        "hand": "One Pair",
+        "score": 50,
+        "details": {
+          "rank": "9"
+        }
+      },
+      {
+        "hand": "One Pair",
+        "score": 50,
+        "details": {
+          "rank": "9"
+        }
+      },
+      {
+        "hand": "IoT Ecosystem",
+        "score": 1000,
+        "details": {
+          "iot_focus": true
+        }
+      }
+    ],
+    "timestamp": "2025-06-20T09:18:38.880619"
+  }
+]

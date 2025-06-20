@@ -17,7 +17,9 @@ from collections import Counter
 class ColorBasedCardGenerator:
     """アイコンの色分析に基づくカードジェネレーター"""
     
-    def __init__(self, base_path: str = "/Users/bohnen/Project/aws-game/aws-porker/Architecture-Icons"):
+    def __init__(self, base_path: str = None):
+        if base_path is None:
+            base_path = os.path.join(os.path.dirname(__file__), "Architecture-Icons")
         self.base_path = Path(base_path)
         self.cards = []
         

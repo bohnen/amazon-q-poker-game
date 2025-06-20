@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """Entry point script to run the AWS integration example."""
 
-from aws_porker.aws_game_example import AwsGameExample
+from aws_poker.aws_game_example import AwsGameExample
 
 
 def main():

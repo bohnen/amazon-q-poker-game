@@ -2,13 +2,13 @@
 
 import pytest
 from unittest.mock import patch, MagicMock
-from aws_porker.game import Game
+from aws_poker.game import Game
 
 
 @pytest.fixture
 def mock_pygame():
     """Mock pygame for testing."""
-    with patch('aws_porker.game.pygame') as mock:
+    with patch('aws_poker.game.pygame') as mock:
         # Mock display.set_mode to return a surface
         mock.display.set_mode.return_value = MagicMock()
         # Mock time.Clock to return a clock

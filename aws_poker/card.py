@@ -4,6 +4,7 @@ AWSポーカーのカードクラス
 
 import pygame
 import csv
+import os
 from pathlib import Path
 from typing import List, Tuple, Optional
 import random
@@ -38,8 +39,10 @@ class Card:
         self.back_surface = None
         self.is_face_up = True
         
-    def load_image(self, base_path: str = "/Users/bohnen/Project/aws-game/aws-porker"):
+    def load_image(self, base_path: str = None):
         """アイコン画像を読み込む"""
+        if base_path is None:
+            base_path = os.path.dirname(os.path.dirname(__file__))
         try:
             full_path = Path(base_path) / self.path
             self.image = pygame.image.load(str(full_path))
@@ -215,8 +218,10 @@ class Card:
 class Deck:
     """カードデッキ"""
     
-    def __init__(self, csv_path: str = "/Users/bohnen/Project/aws-game/aws-porker/cards.csv"):
+    def __init__(self, csv_path: str = None):
         self.cards: List[Card] = []
+        if csv_path is None:
+            csv_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "cards.csv")
         self.load_cards(csv_path)
         self.shuffle()
     

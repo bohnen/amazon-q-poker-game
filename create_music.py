@@ -4,6 +4,7 @@ AWSポーカーゲーム用の音楽を生成するスクリプト
 """
 
 import numpy as np
+import os
 import wave
 import math
 from pathlib import Path
@@ -258,7 +259,7 @@ def main():
     print("AWSポーカー用音楽を生成中...")
     
     generator = MusicGenerator()
-    sounds_dir = Path("/Users/bohnen/Project/aws-game/aws-porker/sounds")
+    sounds_dir = Path(os.path.join(os.path.dirname(__file__), "sounds"))
     
     # BGM生成
     print("BGMを生成中...")

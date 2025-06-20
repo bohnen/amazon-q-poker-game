@@ -4,6 +4,7 @@ AWSポーカーゲームのメインクラス
 
 import hashlib
 import json
+import os
 import random
 import string
 import sys
@@ -30,7 +31,7 @@ class PokerGame:
         pygame.display.set_caption("AWS Porker - AWSアイコンポーカー")
         
         # フォント
-        font_path = "/Users/bohnen/Project/aws-game/aws-porker/fonts/MPLUSRounded1c-Regular.ttf"
+        font_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "fonts", "MPLUSRounded1c-Regular.ttf")
         try:
             self.font = pygame.font.Font(font_path, 24)
             self.small_font = pygame.font.Font(font_path, 16)
@@ -80,7 +81,7 @@ class PokerGame:
         self.code_rect = None  # ゲームコードの矩形領域
         
         # ランキング
-        self.rankings_file = "/Users/bohnen/Project/aws-game/aws-porker/rankings.json"
+        self.rankings_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), "rankings.json")
         
         # サウンドマネージャー
         self.sound_manager = SoundManager()

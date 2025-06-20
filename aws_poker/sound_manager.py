@@ -2,6 +2,7 @@
 AWSポーカーゲーム用サウンドマネージャー
 """
 
+import os
 import pygame
 from pathlib import Path
 from typing import Dict, Optional
@@ -9,7 +10,9 @@ from typing import Dict, Optional
 class SoundManager:
     """サウンド管理クラス"""
     
-    def __init__(self, sounds_dir: str = "/Users/bohnen/Project/aws-game/aws-porker/sounds"):
+    def __init__(self, sounds_dir: str = None):
+        if sounds_dir is None:
+            sounds_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "sounds")
         self.sounds_dir = Path(sounds_dir)
         self.sounds: Dict[str, pygame.mixer.Sound] = {}
         self.bgm_playing = False

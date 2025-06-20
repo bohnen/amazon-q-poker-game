@@ -1,5 +1,5 @@
 """
-AWS Porker - AWSアイコンを使ったポーカーゲーム
+AWS Poker - AWSアイコンを使ったポーカーゲーム
 """
 
 __version__ = "0.1.0"
@@ -12,7 +12,7 @@ from .clipboard_utils import ClipboardManager
 
 def hello():
     """Simple hello function"""
-    print("Hello from AWS Porker!")
+    print("Hello from AWS Poker!")
 
 def list_s3_buckets():
     """Example function to list S3 buckets"""

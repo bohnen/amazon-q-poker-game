@@ -9,11 +9,11 @@ import os
 # プロジェクトルートをパスに追加
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from aws_porker.poker_game import PokerGame
+from aws_poker.poker_game import PokerGame
 
 def main():
     """メイン関数"""
-    print("AWS Porker - AWSアイコンポーカーゲーム")
+    print("AWS Poker - AWSアイコンポーカーゲーム")
     print("=" * 50)
     print("ゲームルール:")
     print("- 5ラウンド制のポーカーゲーム")

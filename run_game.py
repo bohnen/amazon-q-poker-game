@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """Entry point script to run the game."""
 
-from aws_porker.game import Game
+from aws_poker.game import Game
 
 
 def main():

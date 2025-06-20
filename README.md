@@ -1,4 +1,4 @@
-# AWS Porker
+# AWS Poker
 
 AWSアーキテクチャアイコンを使ったポーカーゲーム！309枚のAWSサービスアイコンをトランプカードとして使用し、独自のスコアリングシステムでポーカーを楽しめます。
 
@@ -21,8 +21,8 @@ AWSアーキテクチャアイコンを使ったポーカーゲーム！309枚�
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/yourusername/aws-porker.git
-cd aws-porker
+git clone https://github.com/yourusername/aws-poker.git
+cd aws-poker
 
 # 仮想環境を作成・有効化
 uv venv
@@ -56,7 +56,7 @@ uv pip install -e .
 python run_poker.py
 
 # または
-python -c "from aws_porker import run_poker; run_poker()"
+python -c "from aws_poker import run_poker; run_poker()"
 ```
 
 ### ランキング確認
@@ -103,7 +103,7 @@ python show_rankings.py --detail
 ## 📊 ファイル構成
 
 ```
-aws-porker/
+aws-poker/
 ├── cards.csv              # カード一覧データ
 ├── score.txt              # スコア表
 ├── rankings.json          # ランキングデータ
@@ -119,7 +119,7 @@ aws-porker/
 │   ├── card_draw.wav      # カードドロー効果音
 │   ├── hand_complete.wav  # 役完成効果音
 │   └── game_end.wav       # ゲーム終了効果音
-├── aws_porker/
+├── aws_poker/
 │   ├── card.py           # カードクラス
 │   ├── hand_evaluator.py # 役判定・スコア計算
 │   ├── poker_game.py     # メインゲームクラス

@@ -4,6 +4,7 @@
 """
 
 import csv
+import os
 from collections import Counter, defaultdict
 import math
 
@@ -15,7 +16,7 @@ def analyze_cards():
     ranks = []
     suit_rank_combinations = []
     
-    with open('/Users/bohnen/Project/aws-game/aws-porker/cards.csv', 'r', encoding='utf-8') as csvfile:
+    with open(os.path.join(os.path.dirname(__file__), 'cards.csv'), 'r', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             suits.append(row['suit'])

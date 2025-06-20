@@ -63,7 +63,7 @@ def create_cards_csv():
     Resource-Iconsディレクトリ内のPNGファイルを読み取り、
     cards.csvファイルを作成する
     """
-    base_dir = Path('/Users/bohnen/Project/aws-game/aws-porker/Resource-Icons')
+    base_dir = Path(os.path.join(os.path.dirname(__file__), 'Resource-Icons'))
     png_files = []
     
     # すべてのPNGファイルを再帰的に検索
@@ -74,7 +74,7 @@ def create_cards_csv():
     png_files.sort(key=lambda x: str(x))
     
     # CSVファイルを作成
-    csv_path = Path('/Users/bohnen/Project/aws-game/aws-porker/cards.csv')
+    csv_path = Path(os.path.join(os.path.dirname(__file__), 'cards.csv'))
     
     with open(csv_path, 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = ['path', 'filename', 'rank', 'suit']
@@ -85,7 +85,7 @@ def create_cards_csv():
         
         # 各PNGファイルの情報を書き込み
         for index, png_file in enumerate(png_files):
-            relative_path = png_file.relative_to(Path('/Users/bohnen/Project/aws-game/aws-porker'))
+            relative_path = png_file.relative_to(Path(os.path.dirname(__file__)))
             filename = png_file.name
             rank = get_rank_name(index)
             suit = extract_color_from_filename(str(png_file))

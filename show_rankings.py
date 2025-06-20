@@ -5,11 +5,12 @@
 
 import json
 import sys
+import os
 from datetime import datetime
 
 def show_rankings():
     """ランキングを表示"""
-    rankings_file = "/Users/bohnen/Project/aws-game/aws-porker/rankings.json"
+    rankings_file = os.path.join(os.path.dirname(__file__), "rankings.json")
     
     try:
         with open(rankings_file, 'r') as f:
@@ -22,7 +23,7 @@ def show_rankings():
         print("まだランキングデータがありません。")
         return
     
-    print("AWS Porker - ランキング")
+    print("AWS Poker - ランキング")
     print("=" * 60)
     
     for i, entry in enumerate(rankings[:10], 1):  # トップ10を表示
@@ -47,7 +48,7 @@ def add_score_by_code():
         return
     
     game_code = sys.argv[2]
-    rankings_file = "/Users/bohnen/Project/aws-game/aws-porker/rankings.json"
+    rankings_file = os.path.join(os.path.dirname(__file__), "rankings.json")
     
     # 実際の実装では、ゲームコードから元のゲームデータを復元する必要があります
     # ここでは簡単な例として、コードを受け取ったことを表示

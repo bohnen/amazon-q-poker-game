@@ -1,6 +1,6 @@
 """Tests for the example module."""
 
-from aws_porker import example
+from aws_poker import example
 
 
 def test_hello():
